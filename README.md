@@ -1,2 +1,1 @@
-# globos3
-juego arco y flecha tronar globos
+# explotar-globos-3-plantilla
